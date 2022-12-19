@@ -1,0 +1,47 @@
+.profile {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 92%;
+}
+.container {
+    width: 350px;
+    padding: 25px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: Montserrat;
+    background-color: #14161a;
+}
+.name {
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+.watchlist {
+    flex: 2;
+    width: 100%;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    overflow-y: auto;
+    background-color: #252525;
+    margin: 20px 0;
+}
+.watchListHeader {
+    text-align: center;
+    font-size: 20px;
+    color: #EEBC1D;
+    font-weight: bold;
+}
+.coinData {
+    display: flex;
+    gap: 8px;
+}

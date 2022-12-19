@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+}
+
+.title {
+    margin: 18px;
+    font-family: "Montserrat";
+    font-size: 2.125rem;
+    font-weight: 400;
+    line-height: 1.235;
+}
+
+.tableHead {
+    background-color: gold;
+}
+.img {
+
+}
+.firstCell {
+    display: flex;
+    gap: 15px;
+}
+.coinBlock {
+    display: flex;
+    flex-direction: column;
+}
+.symbol {
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.coinName {
+    color: darkgrey;
+}
+.plus {
+    color: rgb(14, 203, 129);
+    font-weight: 500;
+}
+.minus {
+    color: red;
+    font-weight: 500;
+}
+.pagination {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

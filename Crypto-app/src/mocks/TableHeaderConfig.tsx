@@ -1,0 +1,1 @@
+export const tableConfig: string[] = ["Coin", "Price", "24h Change", "Market Cap"];

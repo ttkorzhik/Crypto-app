@@ -1,0 +1,18 @@
+.image {
+    height: 80px;
+    margin-bottom: 10px;
+}
+.coinDescription {
+    display: flex;
+    gap: 5px;
+}
+.currency {
+    font-size: 22px;
+    font-weight: 500;
+}
+.plus {
+    color: rgb(14, 203, 129);
+}
+.minus {
+    color: red;
+}

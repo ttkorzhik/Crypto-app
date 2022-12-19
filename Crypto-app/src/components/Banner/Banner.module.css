@@ -1,0 +1,14 @@
+.title {
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-style: normal;
+    font-size: 3.75rem;
+    padding-bottom: 15px;
+}
+.text {
+    font-family: "Montserrat";
+    font-weight: normal;
+    font-size: 0.83em;
+    color: darkgrey;
+    text-transform: capitalize;
+}

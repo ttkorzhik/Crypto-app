@@ -1,0 +1,58 @@
+button {
+    font-family: Montserrat;
+    cursor: pointer;
+    background: none;
+    border: none;
+    transition: 0.3s
+}
+.select, .active {
+    border: 1px solid gold;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 22%
+}
+.select {
+    font-weight: 500;
+    color: white;
+}
+.active {
+    background-color: gold;
+    font-weight: 700;
+    color: black;
+}
+.select:hover, .active:hover {
+    background-color: gold;
+    color: #14161a;
+    font-weight: 600;
+}
+.login {
+    width: 85px;
+    height: 40px;
+    margin-left: 15px;
+    background-color: #EEBC1D;
+    border-radius: 5px;
+    font-weight: 500;
+    line-height: 1.75;
+    text-transform: uppercase;
+    color: black;
+    font-size: 0.875rem;
+}
+.formBtn {
+    width: 100%;
+    height: 56px;
+    background-color: #EEBC1D;
+    border-radius: 5px;
+    font-weight: 600;
+    line-height: 1.75;
+    text-transform: uppercase;
+    color: black;
+    font-size: 0.875rem;
+}
+.addToWatchlist {
+
+}
+button:hover {
+    background-color: gold;
+    color: #14161a;
+}
