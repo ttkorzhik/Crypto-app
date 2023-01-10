@@ -28,6 +28,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<HomePage/>}/>
                 <Route path="/coins/:id" element={<CoinPage/>}/>
+                <Route path={"*"} element={<HomePage/>} />
             </Routes>
             <Notification/>
         </div>
