@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Crypto-app/static/css/main.0e3b7686.css",
+    "main.js": "/Crypto-app/static/js/main.8d51c762.js",
+    "static/media/Montserrat-ExtraBoldItalic.eot": "/Crypto-app/static/media/Montserrat-ExtraBoldItalic.b3b3dee5cc72079275ef.eot",
+    "static/media/Montserrat-ExtraBoldItalic.ttf": "/Crypto-app/static/media/Montserrat-ExtraBoldItalic.d19b715d9d17c207ebba.ttf",
+    "static/media/Montserrat-BoldItalic.eot": "/Crypto-app/static/media/Montserrat-BoldItalic.075cad890360fd095697.eot",
+    "static/media/Montserrat-Italic.eot": "/Crypto-app/static/media/Montserrat-Italic.66049cd49439811e4a82.eot",
+    "static/media/Montserrat-BoldItalic.ttf": "/Crypto-app/static/media/Montserrat-BoldItalic.74b6e0836cd2c063288b.ttf",
+    "static/media/Montserrat-Italic.ttf": "/Crypto-app/static/media/Montserrat-Italic.ec9cfd75203f4203b336.ttf",
+    "static/media/Montserrat-LightItalic.eot": "/Crypto-app/static/media/Montserrat-LightItalic.0e5a40c025a62152cad7.eot",
+    "static/media/Montserrat-LightItalic.ttf": "/Crypto-app/static/media/Montserrat-LightItalic.bd32320e6c569e218521.ttf",
+    "static/media/Montserrat-Regular.eot": "/Crypto-app/static/media/Montserrat-Regular.3220cdd4dbb981ac0882.eot",
+    "static/media/Montserrat-Regular.ttf": "/Crypto-app/static/media/Montserrat-Regular.317b418ed317e258b173.ttf",
+    "static/media/Montserrat-ExtraBold.eot": "/Crypto-app/static/media/Montserrat-ExtraBold.3e1f7a552b24cf969fd4.eot",
+    "static/media/Montserrat-ExtraBold.ttf": "/Crypto-app/static/media/Montserrat-ExtraBold.0697040c56e0a596472b.ttf",
+    "static/media/Montserrat-Bold.eot": "/Crypto-app/static/media/Montserrat-Bold.4b33f3d37c06db49a761.eot",
+    "static/media/Montserrat-Bold.ttf": "/Crypto-app/static/media/Montserrat-Bold.5885feb264991825e67f.ttf",
+    "static/media/Montserrat-Light.eot": "/Crypto-app/static/media/Montserrat-Light.d66eb8ddfd61f1ea2f5d.eot",
+    "static/media/Montserrat-Light.ttf": "/Crypto-app/static/media/Montserrat-Light.c3468d41e1e1edd98ca0.ttf",
+    "static/media/Montserrat-BoldItalic.woff": "/Crypto-app/static/media/Montserrat-BoldItalic.e69710e73897b29b794b.woff",
+    "static/media/Montserrat-ExtraBoldItalic.woff": "/Crypto-app/static/media/Montserrat-ExtraBoldItalic.49ebad33137487f44e60.woff",
+    "static/media/Montserrat-Italic.woff": "/Crypto-app/static/media/Montserrat-Italic.9d8693d311414ef85708.woff",
+    "static/media/Montserrat-LightItalic.woff": "/Crypto-app/static/media/Montserrat-LightItalic.7c9151ed5ecb0a706504.woff",
+    "static/media/Montserrat-Bold.woff": "/Crypto-app/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
+    "static/media/Montserrat-ExtraBold.woff": "/Crypto-app/static/media/Montserrat-ExtraBold.75ee4192581c503f2484.woff",
+    "static/media/Montserrat-Regular.woff": "/Crypto-app/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-Light.woff": "/Crypto-app/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
+    "index.html": "/Crypto-app/index.html",
+    "main.0e3b7686.css.map": "/Crypto-app/static/css/main.0e3b7686.css.map",
+    "main.8d51c762.js.map": "/Crypto-app/static/js/main.8d51c762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3b7686.css",
+    "static/js/main.8d51c762.js"
+  ]
+}
