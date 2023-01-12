@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Crypto-app/static/css/main.0e3b7686.css",
-    "main.js": "/Crypto-app/static/js/main.1cad0f69.js",
+    "main.css": "/Crypto-app/static/css/main.32ee6d77.css",
+    "main.js": "/Crypto-app/static/js/main.aa75d0c7.js",
     "static/media/Montserrat-ExtraBoldItalic.eot": "/Crypto-app/static/media/Montserrat-ExtraBoldItalic.b3b3dee5cc72079275ef.eot",
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/Crypto-app/static/media/Montserrat-ExtraBoldItalic.d19b715d9d17c207ebba.ttf",
     "static/media/Montserrat-BoldItalic.eot": "/Crypto-app/static/media/Montserrat-BoldItalic.075cad890360fd095697.eot",
@@ -27,11 +27,11 @@
     "static/media/Montserrat-Regular.woff": "/Crypto-app/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
     "static/media/Montserrat-Light.woff": "/Crypto-app/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
     "index.html": "/Crypto-app/index.html",
-    "main.0e3b7686.css.map": "/Crypto-app/static/css/main.0e3b7686.css.map",
-    "main.1cad0f69.js.map": "/Crypto-app/static/js/main.1cad0f69.js.map"
+    "main.32ee6d77.css.map": "/Crypto-app/static/css/main.32ee6d77.css.map",
+    "main.aa75d0c7.js.map": "/Crypto-app/static/js/main.aa75d0c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e3b7686.css",
-    "static/js/main.1cad0f69.js"
+    "static/css/main.32ee6d77.css",
+    "static/js/main.aa75d0c7.js"
   ]
 }
